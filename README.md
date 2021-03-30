@@ -15,13 +15,9 @@
 
 
 <p>
-  <img alt="GitHub stats" src="https://github-readme-stats-lqpqbzbmp-mashirozx.vercel.app/api?username=zakiego&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&count_private=true&hide_border=true" width="500">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakiego&exclude_repo=KNN-Image-Classification&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&layout=compact&langs_count=8" width="500"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zakiego&show_icons=true&hide_border=true&count_private=true&hide=contribs,prs,issues,contribs,stars" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakiego&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-
-
-
-
 
 <!---
 
