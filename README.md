@@ -18,6 +18,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zakiego&show_icons=true&hide_border=true&count_private=true&hide=contribs,prs,issues,contribs,stars" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakiego&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&count_private=true&langs_count=4"/>
 </p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
