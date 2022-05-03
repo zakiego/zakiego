@@ -12,5 +12,5 @@
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakiego&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&count_private=true&langs_count=4"/> -->
 </div>
 <div>
-   <img src="https://readme-github.zakiego.workers.dev/lang" />
+   <img src="https://raw.githubusercontent.com/zakiego/gitbuh-readme-action/main/stat.svg" />
 </div>
