@@ -1,4 +1,4 @@
-### Halo, Saya <a href="https://zakiego.my.id/" target="_blank">M. Zakiyuddin Munziri</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Halo, Saya <a href="https://zakiego.my.id/" target="_blank">M. Zakiyuddin Munziri</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/prasastipagi)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/mzakiyuddin)
