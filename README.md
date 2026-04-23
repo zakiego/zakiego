@@ -6,4 +6,9 @@ Software engineer · Indonesia
 
 ---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zakiego&theme=github-compact&hide_border=true&hide_title=true" alt="Contribution activity" />
+<div>
+  <img src="https://raw.githubusercontent.com/zakiego/github-readme-wakatime-image-saver/main/github-stats.svg" />
+</div>
+<div>
+  <img src="https://raw.githubusercontent.com/zakiego/github-readme-wakatime-image-saver/main/wakatime-stats.svg" />
+</div>
