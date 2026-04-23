@@ -2,7 +2,7 @@
 
 Software engineer · Indonesia
 
-[Twitter](https://twitter.com/zakiego) · [LinkedIn](https://linkedin.com/in/mzakiyuddin) · [Medium](https://mzakiyuddin.medium.com/) · [zakiego.com](https://zakiego.com/)
+[Twitter](https://twitter.com/zakiego) · [LinkedIn](https://linkedin.com/in/mzakiyuddin) · [zakiego.com](https://zakiego.com/)
 
 ---
 
