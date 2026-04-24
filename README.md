@@ -7,8 +7,8 @@ Software engineer · Indonesia
 ---
 
 <div>
-  <img src="https://github-stats.zakiego.workers.dev?username=zakiego" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/zakiego/readme-svgs/main/github-stats.svg" alt="GitHub stats" />
 </div>
 <div>
-  <img src="https://wakatime-stats.zakiego.workers.dev?username=zakiego&range=all_time" alt="Wakatime all-time languages" />
+  <img src="https://raw.githubusercontent.com/zakiego/readme-svgs/main/wakatime-stats.svg" alt="Wakatime all-time languages" />
 </div>
