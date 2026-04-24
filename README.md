@@ -10,5 +10,5 @@ Software engineer · Indonesia
   <img src="https://github-stats.zakiego.workers.dev?username=zakiego" alt="GitHub stats" />
 </div>
 <div>
-  <img src="https://wakatime-stats.zakiego.workers.dev?username=zakiego" alt="Wakatime last 7 days" />
+  <img src="https://wakatime-stats.zakiego.workers.dev?username=zakiego&range=all_time" alt="Wakatime all-time languages" />
 </div>
